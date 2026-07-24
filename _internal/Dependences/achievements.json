@@ -1,0 +1,164 @@
+{
+    "achievements": {
+        "básicos": {
+            "Um bom começo, CLT!": {
+                "message": "Conseguiu um trabalho digno, ou quase...",
+                "difficulty": "Fácil",
+                "description": "Apenas consiga um trabalho, não é tão díficil..."
+            },
+            "Vídeo bom!": {
+                "message": "Pegou 5.000 de views!",
+                "difficulty": "Fácil",
+                "description": "Faça vídeos, vai que hora dá certo..."
+            },
+            "Sério que alguém leu isso?": {
+                "message": "Leu o Tutorial! Obrigado!",
+                "difficulty": "Fácil",
+                "description": "Só lê o tutorial, poxa cara"
+            },
+            "Será que foi de propósito?": {
+                "message": "Alguém te deu sub!",
+                "difficulty": "Fácil",
+                "description": "Tenta fazer alguém te dar sub, vai que né?"
+            },
+            "Lucro é lucro!": {
+                "message": "Money talks! Money talks!",
+                "difficulty": "Fácil",
+                "description": "Tenta fazer vídeos até ganhar 1 de dinheiro, não deve ser difícil né?"
+            },
+            "Habilidade gênial!": {
+                "message": "O estudo compensa!",
+                "difficulty": "Fácil",
+                "description": "Só liberar uma habilidade..."
+            },
+            "Computador da xuxa...": {
+                "message": "Mais fraco que isso só uma pedra!",
+                "difficulty": "Fácil",
+                "description": "É só montar um computador com as peças mais bosta póssivel, pobre é foda..."
+            },
+            "A que ponto chegamos?": {
+                "message": "Ok, tu tá na bosta mesmo ein?",
+                "difficulty": "Fácil",
+                "description": "Fique zerado."
+            },
+            "Dinheiro sempre é bom, né?": {
+                "message": "Chupem pobres!",
+                "difficulty": "Fácil",
+                "description": "Ganhe o seu sálario pela primeira vez."
+            },
+            "Acabou de entrar e já saiu...": {
+                "message": "Boletos pagos, parabéns!",
+                "difficulty": "Fácil",
+                "description": "Só paga os boletos, nem tem como ficar sem pagar, né?"
+            },
+            "O Serasa não vai gostar...": {
+                "message": "Como tu consegue entrar em dívida sendo tão fácil ter um trabalho?",
+                "difficulty": "Fácil",
+                "description": "Só ganhe uma dívida, não importa o jeito!"
+            },
+            "Juros compostos?": {
+                "message": "Parece que as suas faltas na escola não te ajudaram!",
+                "difficulty": "Fácil",
+                "description": "Deixa a tua dívida aumentar em juros compostos"
+            },
+            "Sextou!": {
+                "message": "Que timing! De folga justo na sexta!",
+                "difficulty": "Fácil",
+                "description": "Tire uma folga do trabalho numa sexta!"
+            },
+            "Eu juro que é emprestado!": {
+                "message": "Fica tranquilo, mês que vem o banco te cobra!",
+                "difficulty": "Fácil",
+                "description": "Pegue um empréstimo!"
+            },
+            "Jackpot!": {
+                "message": "PUTA MERDA!",
+                "difficulty": "Fácil",
+                "description": "Ganhe a mega da virada!"
+            },
+            "99% dos apostadores param antes de ganhar!": {
+                "message": "Não desiste!",
+                "difficulty": "Fácil",
+                "description": "Perca 10 vezes seguidas."
+            },
+            "Seguidores fantasma!": {
+                "message": "Provalvemente foi sem querer...",
+                "difficulty": "Fácil",
+                "description": "Tenha 1000 seguidores no insta ou 1000 inscritos no youtube."
+            }
+        },
+        "normais": {
+            "Progamador é um trabalho?": {
+                "message": "Prepare sua sanidade mental!",
+                "difficulty": "Normal",
+                "description": "Trabalhe como programador!"
+            },
+            "Estudioso ein?": {
+                "message": "Tá gostando de estudar ein!",
+                "difficulty": "Normal",
+                "description": "Obtenha 3 habilidades de melhoria única."
+            }
+        },
+        "especialista": {
+            "Eita bixo habilidoso!": {
+                "message": "Eu te disse que o estudo compensava!",
+                "difficulty": "Difícil",
+                "description": "Obtenha 6 habilidades de melhoria única."
+            }
+        },
+        "pro": {
+            "O amante de estudos!": {
+                "message": "Você é um gênio!",
+                "difficulty": "Extremo",
+                "description": "Obtenha todas as habilidades de melhoria única."
+            }
+        },
+        "secretos": {
+            "Fama Mundial!": {
+                "message": "Todos do mundo te conhecem! Seria isso bom ou ruim?",
+                "difficulty": "Secret",
+                "description": "Seja conhecido mundialmente"
+            },
+            "Gênio da lábia!": {
+                "message": "Já pode ir atrás de mulher, com essa lábia toda é garantido que vai dar certo!",
+                "difficulty": "Secret",
+                "description": "Colocar a lábia no talo e fazer 10 pessoas darem sub"
+            },
+            "Cancelado!": {
+                "message": "Será que você tava pensando antes de falar?",
+                "difficulty": "Secret",
+                "description": "Tomar um strike, não deve ser difícil..."
+            },
+            "Cartão clonado?": {
+                "message": "Que humilhação ein?",
+                "difficulty": "Secret",
+                "description": "Tente comprar algo sem dinheiro, tipo, ZERADO"
+            },
+            "Preguiça? Não conheço!": {
+                "message": "Ás seis da manhã, cara?",
+                "difficulty": "Secret",
+                "description": "Faça uma live logo ao acordar"
+            },
+            "Morreu!": {
+                "message": "Adeus mundo cruel!",
+                "difficulty": "Secret",
+                "description": "É bem óbvio né?"
+            },
+            "Tá passando fome?": {
+                "message": "Tá em falta de dinheiro é?",
+                "difficulty": "Secret",
+                "description": "Só não comer..."
+            },
+            "Ano de copa!": {
+                "message": "É em 58 foi Pelé! Em 62 foi o Mané! Em 70 o esquadrão! Primeiro a tri campeão! \nOooooooh! \n94 Romário! 2002 Fenômeno! Primeiro tetra campeão! Único penta é o Brasilzão! \nOléééééé Brasil olé olé olé!",
+                "difficulty": "Secret",
+                "description": "Chegue a 2030 e veja se o Brasil ganhou a copa!"
+            },
+            "Acho que esse não era o objetivo do jogo...": {
+                "message": "Agora que tal você jogar do jeito certo?",
+                "difficulty": "Secret",
+                "description": "Passe 1 ano sem postar nada, nem lives, NADA."
+            }
+        }
+    }
+}
