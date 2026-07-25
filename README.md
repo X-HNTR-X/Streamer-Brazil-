@@ -47,7 +47,7 @@ Manage your work life, energy, finances, and streaming career while trying to gr
 
 - **V**1.1 -> Version / V**1**.1 -> Big update / V1.**1** -> Small update
 
-- 07/24/2026 — V1.0: playable demo in .exe!
+- 07/24/2026 — V1.0: playable demo now in .exe!
 
 ## Balance Log
 
