@@ -47,11 +47,8 @@ Manage your work life, energy, finances, and streaming career while trying to gr
 
 - **V**1.1 -> Version / V**1**.1 -> Big update / V1.**1** -> Small update
 
-- 07/24/2026 — V1.0: playable demo now in .exe!
+- 07/24/2026 — V1.0: playable demo in .exe!
 
 ## Balance Log
-
-- 06/21/2026: Yt and Insta balance
-	- Now YouTube and Instagram give more money even with less than the minimum of views to give 1 Real/Dollar/Euro per minimum money to give.
 
 - Future entries: Add date, change summary and rationale for each adjustment.
