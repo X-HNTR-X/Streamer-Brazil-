@@ -4,9 +4,6 @@ A life simulation game developed in Python.
 
 Manage your work life, energy, finances, and streaming career while trying to grow your audience and achieve success.
 
-## WARNING
-- After you see an update on my Github, PLEASE copy your save. Otherwise, you will lose your progress, and i will not be held responsible for lost data.
-
 ## Current Features
 
 - Work system
