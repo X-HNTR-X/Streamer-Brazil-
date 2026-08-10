@@ -49,3 +49,7 @@ Manage your work life, energy, finances, and streaming career while trying to gr
 ## Balance Log
 
 - Future entries: Add date, change summary and rationale for each adjustment.
+
+## Future Linux version!
+
+*im trying to make a Linux version of the game, wait until i finish the game and im going to set a deadline here
